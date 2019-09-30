@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MagicSquare</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="escribir">Escribir</string>
+</resources>
